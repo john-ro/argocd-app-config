@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@gh.riotgames.com:jro/argocd-app-config.git
+    repoURL: https://github.com/john-ro/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination: 
